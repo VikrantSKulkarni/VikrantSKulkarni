@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VikrantSKulkarni
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning MERN stack web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
